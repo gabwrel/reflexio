@@ -1,0 +1,150 @@
+{
+  "scores": [
+    {
+      "id": "seed-1",
+      "display_name": "TenZ_Warmup",
+      "avatar_url": "https://api.dicebear.com/7.x/pixel-art/svg?seed=TenZ",
+      "game_mode": "classic",
+      "score": 134.2,
+      "reaction_time_ms": 134.2,
+      "is_guest": false,
+      "created_at": "2026-07-08T07:22:41.136Z"
+    },
+    {
+      "id": "seed-2",
+      "display_name": "TenZ_Warmup",
+      "avatar_url": "https://api.dicebear.com/7.x/pixel-art/svg?seed=TenZ",
+      "game_mode": "spike",
+      "score": 985,
+      "remaining_time_ms": 0.115,
+      "defuse_score": 985,
+      "is_guest": false,
+      "created_at": "2026-07-08T08:22:41.136Z"
+    },
+    {
+      "id": "seed-3",
+      "display_name": "Shroud_Hands",
+      "avatar_url": "https://api.dicebear.com/7.x/pixel-art/svg?seed=shroud",
+      "game_mode": "classic",
+      "score": 142.1,
+      "reaction_time_ms": 142.1,
+      "is_guest": false,
+      "created_at": "2026-07-07T12:22:41.136Z"
+    },
+    {
+      "id": "seed-4",
+      "display_name": "Shroud_Hands",
+      "avatar_url": "https://api.dicebear.com/7.x/pixel-art/svg?seed=shroud",
+      "game_mode": "spike",
+      "score": 996,
+      "remaining_time_ms": 0.031,
+      "defuse_score": 996,
+      "is_guest": false,
+      "created_at": "2026-07-07T13:22:41.136Z"
+    },
+    {
+      "id": "seed-5",
+      "display_name": "AsunaReflex",
+      "avatar_url": "https://api.dicebear.com/7.x/pixel-art/svg?seed=asuna",
+      "game_mode": "classic",
+      "score": 149.8,
+      "reaction_time_ms": 149.8,
+      "is_guest": false,
+      "created_at": "2026-07-08T00:22:41.136Z"
+    },
+    {
+      "id": "seed-6",
+      "display_name": "ViperMain",
+      "avatar_url": "https://api.dicebear.com/7.x/pixel-art/svg?seed=viper",
+      "game_mode": "spike",
+      "score": 875,
+      "remaining_time_ms": 0.962,
+      "defuse_score": 875,
+      "is_guest": false,
+      "created_at": "2026-07-06T12:22:41.136Z"
+    },
+    {
+      "id": "seed-7",
+      "display_name": "SovaDarts",
+      "avatar_url": "https://api.dicebear.com/7.x/pixel-art/svg?seed=sova",
+      "game_mode": "classic",
+      "score": 198.5,
+      "reaction_time_ms": 198.5,
+      "is_guest": true,
+      "created_at": "2026-07-07T21:22:41.136Z"
+    },
+    {
+      "id": "seed-8",
+      "display_name": "SovaDarts",
+      "avatar_url": "https://api.dicebear.com/7.x/pixel-art/svg?seed=sova",
+      "game_mode": "spike",
+      "score": 720,
+      "remaining_time_ms": 2.154,
+      "defuse_score": 720,
+      "is_guest": true,
+      "created_at": "2026-07-07T22:22:41.136Z"
+    },
+    {
+      "id": "seed-9",
+      "display_name": "ReflexJunior",
+      "avatar_url": "https://api.dicebear.com/7.x/pixel-art/svg?seed=reflexjr",
+      "game_mode": "classic",
+      "score": 224,
+      "reaction_time_ms": 224,
+      "is_guest": true,
+      "created_at": "2026-07-05T12:22:41.136Z"
+    },
+    {
+      "id": "seed-10",
+      "display_name": "SentinelsFan",
+      "avatar_url": "https://api.dicebear.com/7.x/pixel-art/svg?seed=sentinels",
+      "game_mode": "spike",
+      "score": 550,
+      "remaining_time_ms": 3.462,
+      "defuse_score": 550,
+      "is_guest": true,
+      "created_at": "2026-07-08T11:22:41.136Z"
+    },
+    {
+      "id": "score-69kp2j874",
+      "display_name": "John Gabriel Declaro",
+      "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJDivIB0xPJ7lDYFbV2432h246FdEzzq8WCZcEoty6J1VA4EeLd=s96-c",
+      "game_mode": "classic",
+      "score": 486.1,
+      "reaction_time_ms": 486.1,
+      "is_guest": false,
+      "created_at": "2026-07-08T13:49:35.515Z"
+    },
+    {
+      "id": "score-p09eqkmtx",
+      "display_name": "John Gabriel Declaro",
+      "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJDivIB0xPJ7lDYFbV2432h246FdEzzq8WCZcEoty6J1VA4EeLd=s96-c",
+      "game_mode": "classic",
+      "score": 419,
+      "reaction_time_ms": 419,
+      "is_guest": false,
+      "created_at": "2026-07-08T13:49:54.118Z"
+    },
+    {
+      "id": "score-sauo5f4my",
+      "display_name": "John Gabriel Declaro",
+      "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJDivIB0xPJ7lDYFbV2432h246FdEzzq8WCZcEoty6J1VA4EeLd=s96-c",
+      "game_mode": "classic",
+      "score": 374.6,
+      "reaction_time_ms": 374.6,
+      "is_guest": false,
+      "created_at": "2026-07-08T13:50:10.556Z"
+    },
+    {
+      "id": "score-ca5bxrbmm",
+      "display_name": "John Gabriel Declaro",
+      "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocJDivIB0xPJ7lDYFbV2432h246FdEzzq8WCZcEoty6J1VA4EeLd=s96-c",
+      "game_mode": "spike",
+      "score": 446,
+      "remaining_time_ms": 4.262100000011159,
+      "defuse_score": 446,
+      "is_guest": false,
+      "created_at": "2026-07-08T13:51:07.842Z"
+    }
+  ]
+}

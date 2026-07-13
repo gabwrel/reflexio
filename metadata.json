@@ -1,0 +1,6 @@
+{
+  "name": "Reaction Speed Trainer",
+  "description": "An esports-grade competitive reaction speed trainer featuring a classic reaction time benchmark, a Valorant spike defuse training simulation, global live leaderboards, and user profile statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
